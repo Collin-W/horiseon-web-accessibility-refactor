@@ -101,7 +101,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* change this to one class and 1 */
+
 .service-content {
     margin-bottom: 20px;
     padding: 50px;
@@ -115,12 +115,10 @@ p {
     max-height: 200px;
 }
 
-
 .service-content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
 
 footer {
     padding: 30px;
