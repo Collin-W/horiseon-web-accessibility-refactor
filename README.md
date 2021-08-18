@@ -17,5 +17,6 @@ Comments added to code for better organization
 Company name text changed color for better contrast
 
 Credits:
-Owner of the website- Horiseon
-2021 refactor contributor- Collin W.
+Owner of the website- Horiseon,
+2021 Refactor contributor- Collin W.
+<img width="1221" alt="2021-08-17 (1)" src="https://user-images.githubusercontent.com/88279562/129830444-939f3548-9817-4f2f-a06d-b964259db65f.png">
