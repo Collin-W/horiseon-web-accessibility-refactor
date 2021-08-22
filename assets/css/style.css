@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header and nav */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,14 +43,9 @@ header nav ul li {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
+/* Header and nav end */
 
-p {
-    font-size: 16px;
-}
+/* Hero */
 
 .hero {
     height: 800px;
@@ -59,21 +56,9 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
+/* Hero end */
 
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
+/* Side content */
 
 .benefits {
     margin-right: 20px;
@@ -102,6 +87,10 @@ p {
     max-width: 150px;
 }
 
+/* Side content end */
+
+/* Main content */
+
 .service-content {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,6 +109,16 @@ p {
     font-size: 36px;
 }
 
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* Main content end */
+
+/* Footer */
+
 footer {
     padding: 30px;
     clear: both;
@@ -130,3 +129,28 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/* Footer end */
+
+/* Utility */
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Utility end */
